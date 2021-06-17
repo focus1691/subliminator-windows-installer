@@ -27,9 +27,9 @@ DisableProgramGroupPage=yes
 LicenseFile=C:\Users\Joshua\Documents\Code\subliminator-windows-installer\Licence
 ; Uncomment the following line to run in non administrative install mode (install for current user only.)
 ;PrivilegesRequired=lowest
-OutputDir=C:\Users\Joshua\Documents\Code\subliminator-windows-installer
+OutputDir=C:\Users\Joshua\Documents\Code\subliminator-windows-installer\output
 OutputBaseFilename=Subliminator
-; SetupIconFile=compiler:SetupClassicIcon.ico
+SetupIconFile=compiler:SetupClassicIcon.ico
 Compression=lzma
 SolidCompression=yes
 WizardStyle=modern
