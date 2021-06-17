@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\Joshua\Documents\Code\subliminator-windows-installer\subliminator.jar</jar>
+  <outfile>C:\Users\Joshua\Documents\Code\subliminator-windows-installer\Subliminator.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>high</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\Joshua\Documents\Code\subliminator-windows-installer\icons\128 .ico</icon>
+  <jre>
+    <path></path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>1.8.0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.1.0.0</fileVersion>
+    <txtFileVersion>1.1.0.0</txtFileVersion>
+    <fileDescription>Subliminal messages for accessing the power of your mind</fileDescription>
+    <copyright>© 2021 PsychologyTechnology</copyright>
+    <productVersion>1.1.0.0</productVersion>
+    <txtProductVersion>1.1.0.0</txtProductVersion>
+    <productName>Subliminator</productName>
+    <companyName>PsychologyTechnology</companyName>
+    <internalName>Subliminator</internalName>
+    <originalFilename>Subliminator.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>ENGLISH_UK</language>
+  </versionInfo>
+</launch4jConfig>
