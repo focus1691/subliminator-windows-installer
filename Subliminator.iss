@@ -2,7 +2,7 @@
 ; SEE THE DOCUMENTATION FOR DETAILS ON CREATING INNO SETUP SCRIPT FILES!
 
 #define MyAppName "Subliminator"
-#define MyAppVersion "1.1.0"
+#define MyAppVersion "1.2.0"
 #define MyAppPublisher "PsychoTechnology"
 #define MyAppURL "https://www.psychotechnology.com/"
 #define MyAppExeName "Subliminator.exe"
@@ -33,6 +33,7 @@ SetupIconFile=C:\Users\Joshua\Documents\Code\subliminator-windows-installer\icon
 Compression=lzma
 SolidCompression=yes
 WizardStyle=modern
+UninstallDisplayIcon={app}\{#MyAppExeName}
 
 [Languages]
 Name: "english"; MessagesFile: "compiler:Default.isl"

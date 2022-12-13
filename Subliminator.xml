@@ -14,6 +14,10 @@
   <restartOnCrash>false</restartOnCrash>
   <manifest></manifest>
   <icon>C:\Users\Joshua\Documents\Code\subliminator-windows-installer\icons\icon.ico</icon>
+  <singleInstance>
+    <mutexName>subliminator</mutexName>
+    <windowTitle></windowTitle>
+  </singleInstance>
   <jre>
     <path></path>
     <bundledJre64Bit>false</bundledJre64Bit>
@@ -24,12 +28,12 @@
     <runtimeBits>64/32</runtimeBits>
   </jre>
   <versionInfo>
-    <fileVersion>1.1.0.0</fileVersion>
-    <txtFileVersion>1.1.0.0</txtFileVersion>
+    <fileVersion>1.2.0.0</fileVersion>
+    <txtFileVersion>1.2.0.0</txtFileVersion>
     <fileDescription>Subliminal Messages Software</fileDescription>
     <copyright>© 2021 PsychoTechnology</copyright>
-    <productVersion>1.1.0.0</productVersion>
-    <txtProductVersion>1.1.0.0</txtProductVersion>
+    <productVersion>1.2.0.0</productVersion>
+    <txtProductVersion>1.2.0.0</txtProductVersion>
     <productName>Subliminator</productName>
     <companyName>PsychoTechnology</companyName>
     <internalName>Subliminator</internalName>
